@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdsav
-- 👀 I’m interested in environmental LCA, material flow analysis, energy science, clean technology, and data science for policy. 
+- 👀 I’m interested in environmental LCA, material flow analysis, energy science, industrial ecology, clean technology, and data science for policy. 
 - 🌱 I’m currently learning R, next up Python!
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
